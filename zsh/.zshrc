@@ -72,11 +72,11 @@ alias cat='bat'
 alias za='ws zathura'
 alias pacman='sudo pacman'
 alias v='nvim'
-alias vim='nvim'
+#alias vim='nvim'
 alias locate='plocate'
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:7890"
 alias unsetproxy="unset ALL_PROXY"
-alias pca="proxychains4"
+alias pc="proxychains4"
 
 
 
