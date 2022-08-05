@@ -580,6 +580,7 @@ schemes:
 # *SolarizedLight
 # *SolarizedDark
 # *TomorrowNight
+#
 
 colors: *GruvboxDark
 
