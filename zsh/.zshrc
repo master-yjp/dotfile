@@ -85,8 +85,9 @@ alias pcnb='proxychains4 newsboat'
 
 
 #set things 
-export BROWSER=/usr/bin/brave
-#export BROWSER=/sbin/chromium
-export EDITOR=/usr/bin/nvim
+#export BROWSER=/usr/bin/brave
+export EDITOR="nvim"
+export TERMINAL="alacritty"
+export BROWSER="brave"
 export FILMANAGER=/usr/bin/ranger
 
