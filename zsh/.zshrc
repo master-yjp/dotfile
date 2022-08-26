@@ -72,7 +72,6 @@ alias cat='bat'
 alias za='ws zathura'
 alias pacman='sudo pacman'
 alias v='nvim'
-alias vim='nvim'
 alias locate='plocate'
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:7890"
 alias unsetproxy="unset ALL_PROXY"
@@ -88,6 +87,6 @@ alias pcnb='proxychains4 newsboat'
 #export BROWSER=/usr/bin/brave
 export EDITOR="nvim"
 export TERMINAL="alacritty"
-export BROWSER="brave"
+export BROWSER="librewolf"
 export FILMANAGER=/usr/bin/ranger
 
